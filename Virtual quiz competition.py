@@ -1,4 +1,4 @@
-print ("Welocme to My quiz game ! ")
+print ("Welcome to My quiz game ! ")
 playing = input("Are you ready to play: ")
 if playing.lower() != "yes":
     quit()
